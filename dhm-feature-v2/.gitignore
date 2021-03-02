@@ -1,0 +1,12 @@
+node_modules
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+#secret
+local.secret.json
+
+flatten/
